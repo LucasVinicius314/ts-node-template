@@ -1,0 +1,14 @@
+{
+  "name": "ts-node-template",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "author": "Lucas Coelho <58010418+LucasVinicius314@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "ts-node": "^10.4.0"
+  }
+}

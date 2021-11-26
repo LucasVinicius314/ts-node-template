@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es2021"],
+    "target": "ES6",
+    "moduleResolution": "Node"
+  },
+  "exclude": ["build"],
+  "include": ["src"]
+}
